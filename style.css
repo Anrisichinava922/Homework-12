@@ -70,7 +70,7 @@ a{
     gap: 25px;
     flex-direction: column;
     background-color: #000;
-    width: 100%;
+    width: 375px;
     height: 667px;
     text-align: start;
     transition: 0.3s;
