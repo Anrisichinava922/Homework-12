@@ -1,0 +1,192 @@
+@media (width > 1440px){
+    header{
+        background-image: url(./assets/1440px.svg);
+        background-repeat: no-repeat;
+    }
+    .lp{
+        position: relative;
+        top: 50px;
+        left: -410px;
+    }
+    .hambrgr{
+        display: none;
+    }
+    .nonediv{
+        position: relative;
+        top: 25px;
+        left: 438px;
+        display: flex;
+        flex-direction: row;
+        column-gap: 32px;
+    }
+    .headertext{
+        width: 650px;
+        height: 278px;
+        flex-shrink: 0;
+        position: relative;
+        left: -223px;
+    }
+    h1{
+        width: 570px;
+        height: 198px;
+        flex-shrink: 0;
+        font-size: 72px;
+        line-height: 70px;
+    }
+    .section1{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        right: -90px;
+        margin-bottom: 160px;
+    }
+    .oculusman{
+        width: 731px;
+        height: 500px;
+        flex-shrink: 0;
+    }
+    .s1txt{
+        position: relative;
+        text-align: start;
+        right: 180px;
+        top: 90px;
+        width: 541px;
+        height: 317px;
+        flex-shrink: 0;
+        background: #FFF;
+        padding: 96px 0 0 96px;
+    }
+    h2{
+        text-align: start;
+        width: 445px;
+        color: #000;
+        font-size: 48px;
+        line-height: 48px;
+    }
+    h3{
+        width: 445px;
+        color: #000;
+        font-size: 15px;
+        line-height: 25px;
+        opacity: 0.4994;
+    }
+    .but1{
+        display: block;
+    }
+    .but2{
+        display: none;
+    }
+    .middletxt{
+        display: flex;
+        flex-direction: row;
+        margin-left: 174px;
+        column-gap: 539px;
+        margin-bottom: 60px;
+    }
+    h4{
+        width: 445px;
+        color: #000;
+        font-size: 48px;
+        line-height: 48px;
+        margin-left: -25px;
+    }
+    .section2{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        column-gap: 30px;
+        row-gap: 30px;
+        margin-left: 25px;
+    }
+    .box{
+        width: 256px;
+        height: 450px;
+        flex-shrink: 0;
+    }
+    .mobile{
+        display: none;
+    }
+    .desktop{
+        display: block;
+    }
+    .h5{
+        color: #FFF;
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .t1{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 110px;
+    }
+    .t2{
+        top: 354px;
+        left: 30px;
+        bottom: 32px;
+        right: 84px;
+    }
+    .t3{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 72px;
+    }
+    .t4{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 139px;
+    }
+    .t5{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 52px;
+    }
+    .t6{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 59px;
+    }
+    .t7{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 47px;
+    }
+    .t8{
+        top: 354px;
+        left: 40px;
+        bottom: 32px;
+        right: 84px;
+    }
+    footer{
+        display: flex;
+        flex-direction: row;
+        height: 160px;
+    }
+    .footertxt{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        position: relative;
+        left: 180px;
+        top: -20px;
+    }
+    .txt{
+        display: flex;
+        flex-direction: row;
+    }
+    .lastbox{
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        text-align: end;
+        position: relative;
+        top: -40px;
+        left: 770px;
+    }
+}
